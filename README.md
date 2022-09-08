@@ -1,5 +1,6 @@
 # sowprog-api-ruby
 
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg)]()
 [![Gem Version](https://badge.fury.io/rb/sowprog-api-ruby.svg)](https://badge.fury.io/rb/sowprog-api-ruby)
 
 Wrapper for [Sowprog](https://www.sowprog.com/) 🎶 API.
@@ -26,3 +27,7 @@ The keys are available to you throughout your application as:
 SowprogApiRuby.configuration.user_name
 SowprogApiRuby.configuration.password
 ```
+
+## License
+
+MIT
