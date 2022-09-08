@@ -21,11 +21,10 @@ end
 
 Getting these keys requires a (free) SowprogApiRuby account and that you agree to the terms of use for the API.
 
-The keys are available to you throughout your application as:
+To get all scheduled events :
 
 ```ruby
-SowprogApiRuby.configuration.user_name
-SowprogApiRuby.configuration.password
+SowprogApiRuby.scheduled_events
 ```
 ## Author
 
