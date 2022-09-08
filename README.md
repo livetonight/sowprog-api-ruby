@@ -2,7 +2,7 @@
 
 [![Gem Version](https://badge.fury.io/rb/sowprog-api-ruby.svg)](https://badge.fury.io/rb/sowprog-api-ruby)
 
-Wrapper for [Sowprog](https://www.sowprog.com/) API.
+Wrapper for [Sowprog](https://www.sowprog.com/) 🎶 API.
 
 ## API keys
 
