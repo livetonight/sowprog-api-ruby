@@ -27,6 +27,9 @@ The keys are available to you throughout your application as:
 SowprogApiRuby.configuration.user_name
 SowprogApiRuby.configuration.password
 ```
+## Author
+
+![LiveTonight](https://res.cloudinary.com/dcyafbpoh/image/upload/w_200/v1602761423/logo_vert_noir_plat.png)
 
 ## License
 
