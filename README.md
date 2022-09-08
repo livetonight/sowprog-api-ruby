@@ -2,6 +2,8 @@
 
 [![Gem Version](https://badge.fury.io/rb/sowprog-api-ruby.svg)](https://badge.fury.io/rb/sowprog-api-ruby)
 
+Wrapper for [Sowprog](https://www.sowprog.com/) API.
+
 ## API keys
 
 API keys must be configured in the gem setup. You can do this anywhere in your application before you make API calls using the gem.
