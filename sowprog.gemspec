@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
     s.name        = "sowprog"
-    s.version     = "0.0.2"
+    s.version     = "0.0.3"
     s.summary     = "SowProg"
     s.description = "SowProg Api for Ruby"
     s.authors     = ["LiveTonight", "Guillaume Blanchard", "Hugo How-Choong"]
