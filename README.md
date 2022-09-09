@@ -10,7 +10,7 @@ Wrapper for [Sowprog](https://www.sowprog.com/) 🎶 API.
 API keys must be configured in the gem setup. You can do this anywhere in your application before you make API calls using the gem.
 
 ```ruby
-SowprogApiRuby.configure do |config|
+Sowprog.configure do |config|
   config.user_name = ''
   config.password = ''
 end
@@ -19,12 +19,12 @@ end
 * `config.user_name` - your Sowprog user name
 * `config.password` - your Sowprog password
 
-Getting these keys requires a (free) SowprogApiRuby account and that you agree to the terms of use for the API.
+Getting these keys requires a (free) Sowprog account and that you agree to the terms of use for the API.
 
 To get all scheduled events :
 
 ```ruby
-SowprogApiRuby.scheduled_events
+Sowprog.scheduled_events
 ```
 ## Author
 

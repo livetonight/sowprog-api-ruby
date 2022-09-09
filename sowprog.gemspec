@@ -1,11 +1,11 @@
 Gem::Specification.new do |s|
-    s.name        = "sowprog-api-ruby"
-    s.version     = "0.0.1"
-    s.summary     = "SowProg Api Ruby"
-    s.description = "SowProg Api Ruby"
+    s.name        = "sowprog"
+    s.version     = "0.0.2"
+    s.summary     = "SowProg"
+    s.description = "SowProg Api for Ruby"
     s.authors     = ["LiveTonight", "Guillaume Blanchard", "Hugo How-Choong"]
     s.email       = "hugo@livetonight.fr"
-    s.files       = ["lib/sowprog-api-ruby.rb"]
+    s.files       = ["lib/sowprog.rb"]
     s.homepage    =
       "https://rubygems.org/gems/sowprog-api-ruby"
     s.license       = "MIT"
