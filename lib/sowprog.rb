@@ -11,7 +11,7 @@ class Sowprog
 
     def self.fetch(resource)
         uri = "https://agenda.sowprog.com/rest/v1_2/"
-        if resource == "scheduledEvents" || resource == "locations" || resource = "scheduledEventsSplitByDate"
+        if resource == "scheduledEvents" || resource == "locations" || resource == "scheduledEventsSplitByDate"
             uri = uri + resource + "/search"
         else
             uri = uri + resource
